@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Fullstack web development, c# and Javabout<br>
+🌱 I’m currently learning Fullstack web development, C# and Java<br>
 
 
 ## 🌐 Socials:
